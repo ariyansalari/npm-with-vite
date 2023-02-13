@@ -1,4 +1,4 @@
-// import styles from 
+import "./index.css"
 const Navbar=()=>{
     return (`<h1 class="hi">ariyan hastam</h1>`)
 }
